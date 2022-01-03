@@ -1,0 +1,116 @@
+UPDATE-URI B-HOOD (v4)
+
+ca si admin ai tag [ADMIN] pe /rc
+trebuie sa fii online ca sa iei premiul de la job goal.
+facuta comanda /togrb (reborn chat)
+adaugata comanda /yo (ca pe b-hood)
+de acum /call 112 doar pentru cei cu level 3+.
+adaugata comanda /flipcar <playerid> pentru adminii 1+
+comanda /blocklist pentru cei cu premium sau vip / vip plus.
+Refacut upgrade-ul de Reborn si de Premium Plus si adauga-te in /shop
+Facut Reborn 2.
+Acum ai nevoie de minim o ora pentru a avea acces la /hud.
+De acum comanda </nskip> doar pentru helperii de tip 1.
+Tag de "YOUTUBER" daca ai functia de youtuber.
+Daca dai /spec si acel jucator este cduty, iti apare un mesaj informativ.
+limita la /refill este acum intre 10k si 100k.
+comanda /buymask ca sa nu mori de la "corona time".
+modificat text-ul la garage.
+Daca sunt 5+ queryuri, comenzile /v, /skins, /opencrate, /ban, /mute, /server nu vor functiona.
+De acum daca ID-ul din baza de date este mai mare de 2, nu va functiona comanda /setadmin, gen id 1 si id 2 (fondator si scripterul) sa aiba acces la /setadmin.
+
+adaugate taxe la payday pentru jucatorii ce detin propietati.
+
+cei ce detin o casa o sa plateasca $100,000 la fiecare payday.
+cei ce detin o afacere o sa plateasca $200,000 la fiecare payday.
+cei ce detin un job o sa plateasca $350,000 la fiecare payday.
+
+Pretul la Infernus modificat la 777,777,777$.
+Pretul la Sandking modificat la 120,000,000$
+Pretul la Huntley modificat la 150,000,000$
+
+Comanda /vipname modificata in /vipmenu.
+
+Adaugat Fisher SF si Fish Shop in San Fierro. (posibil buguit jobul Fisher, oricum este usor de rezolvat)
+Comanda /loginqueuestats asemanatoare ca cea de pe b-hood.
+Adaugat in </call> si metoda "calls" pentru a putea inchide/aprinde apelurile (/call).
+
+
+
+Beneficii Referral adaugate:
+
+- Nivel 10: 1x Rare Crate.
+
+- Nivel 15: 1x Epic Crate.
+
+- Nivel 20: 1x Legendary Crate.
+
+- Nivel 25: 1x Hidden Color.
+
+- Nivel 30: 20 Premium Points.
+
+- Nivel 35: 1x Vehicle slot (daca ai libere).
+
+- Nivel 40: 2x Legendary Crate.
+
+- Nivel 45: 3x Legendary Crate.
+
+- Nivel 50: 50 Premium Points.
+
+- Nivel 55: 500 B-Points. 
+
+- Nivel 60: 1x Transcendent Crate. 
+
+- Nivel 65: 1x Mythic Crate. 
+
+- Nivel 70: 2000 Pet Points. 
+
+- Nivel 75: Legendary Crate. 
+
+- Nivel 80: 1000 Gift Points. 
+
+- Nivel 85: Un slot de vehicule. 
+
+- Nivel 90: vehicle crate (pana se adauga frozen in urmatoarele versiuni). 
+
+- Nivel 95: 2x Transcendent Crates. 
+
+- Nivel 100: 100 Puncte Premium.
+
+
+
+premium plus (2kkk si 5k b-hood points):
+acces /flip (delay 30 min)
+acces /mylp
+/pc [PREMIUM PLUS]: nume
+limita la pay 1kk
+
+vip (800pp)
+acces la /nos, /vipwheels, /setw si /reply
+/vc
+backpack cu doi pesti si doua ture farm
+limita /pay 2kk
+
+vip plus (500pp)
+Numar de tel 3 cifre, acces /vr, /call si /sms pe id
+-50% timp la /ad
+/depositm si /withdrawm
+limita /pay 3kk	
+
+reborn (500pp, 500rp, 100 level)
+/find fara detective
+tag reborn
+limtia /pay 5kk
+/rc
+5 sloturi in plus la vehicule
+din nou beneficiile de la referral
+
+reborn 2 (1000pp si level 100)
+/getgift de oriunde
+5 slots in plus vechiule
+/id si va aparea si nr lui de tel
+fara taxa /withdraw de la atm
+/vr pe orice vehicul
+/rc
+din nou beneficiile de la referral
+
